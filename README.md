@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
 </a>
 
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/keroo79maher?igsh=djZsdWo2NmZxZmRv" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
     </a>
-    <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <a href="https://www.facebook.com/share/12GxTnFhRFY/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
     </a>
     <a href="https://wa.me/+201202572716" target="_blank">
@@ -30,11 +30,11 @@
 
 ###
 
-<p align="left">I'm Kyrillos Maher from Cairo,Egypt<br><br>- 🔭 I’m working as  .Net Devolper<br>- 📚 I'm currently learning All teconolgies related to .NetCore<br>- ⚡ I'm junior Cs Student at faculty of Science ASU .</p>
+<p align="left"><h3>I'm Kyrillos Maher from Cairo,Egypt.</h3><br>- 🔭 I’m working as  .Net Devolper<br>- 📚 I'm currently learning All teconolgies related to .NetCore<br>- ⚡ I'm junior Cs Student at faculty of Science ASU .</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>a third-year student at Ain shams University with a passion for backend development. Currently, I'm growing my skills in  backend development with dotnet by making projects that follow best practices and actively seeking internships to gain practical experience in the software industry. Eager to connect with professionals and peers to learn and grow.</h3>
+<h3 align="left"><h1>👩‍💻  About Me</h1><br>a third-year student at Ain shams University with a passion for backend development. Currently, I'm growing my skills in  backend development with dotnet by making projects that follow best practices and actively seeking internships to gain practical experience in the software industry. Eager to connect with professionals and peers to learn and grow.</h3>
 
 ###
 
