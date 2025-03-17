@@ -74,12 +74,28 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : Open to Work</h3>
+<h3 align="left">🔥   My Status : Open to Work</h3>
+
+###
+ <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KyRilloSmaher&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyRilloSmaher&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+  
+<br>
+<br>
+
+👀 visitor count
+
+<img src="https://profile-counter.glitch.me/KyRilloSmaher/count.svg" alt="Hello world" />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=KyRilloSmaher%20&theme=blue-green" alt="Layout with last medium posts"  />
-</div>
 
-###
+
