@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left"><h3>I'm Kyrillos Maher from Cairo,Egypt.</h3><br>- 🔭 I’m working as  .Net Devolper<br>- 📚 I'm currently learning All teconolgies related to .NetCore<br>- ⚡ I'm junior Cs Student at faculty of Science ASU .</p>
+<p align="left"><h3>I'm Kyrillos Maher from Cairo,Egypt.</h3><br>- 🔭 I’m working as  .Net Devolper<br>- 📚 I'm currently learning All teconolgies related to .NetCore<br>- ⚡ I'm junior CS Student at faculty of Science ASU</p>
 
 ###
 
