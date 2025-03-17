@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left"><h1>👩‍💻  About Me</h1><br>a third-year student at Ain shams University with a passion for backend development. Currently, I'm growing my skills in  backend development with dotnet by making projects that follow best practices and actively seeking internships to gain practical experience in the software industry. Eager to connect with professionals and peers to learn and grow.</h3>
+<h3 align="left"><h1>👨‍💻About Me</h1><br>a third-year student at Ain shams University with a passion for backend development. Currently, I'm growing my skills in  backend development with dotnet by making projects that follow best practices and actively seeking internships to gain practical experience in the software industry. Eager to connect with professionals and peers to learn and grow.</h3>
 
 ###
 
