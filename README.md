@@ -81,7 +81,7 @@
 ---
 
 ## 📄 Resume
-[📄 View My Resume] [https://drive.google.com/file/d/1lv9FkEvzj3Eq8OgVWSffqdUIv5AgWEHK/view?usp=drive_link](https://docs.google.com/document/d/1oZ9Tr0QDdPc-AxoOsb0CKKXzxMD3GAjp/edit?usp=drive_link&ouid=113784913719912469938&rtpof=true&sd=true)
+[📄 View My Resume](https://docs.google.com/document/d/1oZ9Tr0QDdPc-AxoOsb0CKKXzxMD3GAjp/edit?usp=drive_link&ouid=113784913719912469938&rtpof=true&sd=true)
 
 ---
 
